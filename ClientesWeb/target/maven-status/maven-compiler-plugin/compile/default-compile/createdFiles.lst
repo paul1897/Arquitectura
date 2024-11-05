@@ -1,0 +1,10 @@
+ec\edu\monster\ws\PulgadasACentimetrosResponse.class
+ec\edu\monster\ws\ObjectFactory.class
+ec\edu\monster\ws\CentimetrosAPulgadasResponse.class
+ec\edu\monster\ws\WSConversionUnidades.class
+ec\edu\monster\ws\CentimetrosAPulgadas.class
+ec\edu\monster\ws\package-info.class
+com\mycompany\clientesweb\resources\JavaEE8Resource.class
+ec\edu\monster\ws\WSConversionUnidades_Service.class
+ec\edu\monster\ws\PulgadasACentimetros.class
+com\mycompany\clientesweb\JAXRSConfiguration.class
